@@ -1,0 +1,10 @@
+* webpage should be simple and remembarable
+* should be with good design
+* easy access for everyone
+* delivery tracking
+* separate module for each country and for each variety of chocolate
+* 40+ languages
+* user friendly
+* traditional variety of chocolate
+* attractive interface
+* customizable
